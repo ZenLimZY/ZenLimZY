@@ -4,7 +4,7 @@ My name is **Zen Lim**. I'm a motivated and curious individual with a strong edu
 
 ## 🎓 Education
 
-I graduated from **Singapore Polytechnic** where I earned a diploma in **Financial Informatics**. Currently, I'm an undergraduate at the prestigious **University of Buffalo**, majoring in **Bachelor of Science in Business Administration**.
+I graduated from **Singapore Polytechnic** where I earned a diploma in **Financial Informatics**. Currently, I'm an undergraduate at the **University of Buffalo**, majoring in **Bachelor of Science in Business Administration**.
 
 ## 💼 Interests 
 
@@ -13,6 +13,7 @@ My key area of interest lies in **wealth and fund management**. I'm looking forw
 ## 🔬 Current Projects 
 
 - **Algorithmic Trading Development:** Developing a set of personal trading algorithms to better understand the market mechanics and increase portfolio return.
+- **Quants:** Regression and stuffs
 
 ## 🌐 Connect with me
 
